@@ -1,0 +1,11 @@
+.closeIcon {
+  font-size: 30px;
+  color: #212121;
+}
+
+.loader-container {
+  display: flex;
+  height: 60vh;
+  justify-content: center;
+  align-items: center;
+}
